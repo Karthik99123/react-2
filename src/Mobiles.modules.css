@@ -1,0 +1,21 @@
+.mobiles
+{
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.mobile
+{
+    width: 150px;
+    height: 200px;
+    margin: 20px;
+    border: 2px solid purple;
+    text-align:center;
+}
+
+.mobile img
+{
+width: 100%;
+height: 120px;
+}
